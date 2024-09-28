@@ -1,0 +1,2 @@
+# MiniOBDatabaseCodes
+第四届OceanBase数据库大赛MiniOB代码仓库
